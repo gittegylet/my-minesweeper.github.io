@@ -22,4 +22,4 @@ function hideTheWholeField(aknamezo) {
 
 
 
-exports.hideTheWholeField = hideTheWholeField;
+//exports.hideTheWholeField = hideTheWholeField;

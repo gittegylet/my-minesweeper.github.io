@@ -18,4 +18,4 @@ function isAnyNonBombFieldStillHidden(aknamezo) {
 
 
 
-exports.isAnyNonBombFieldStillHidden = isAnyNonBombFieldStillHidden;
+//exports.isAnyNonBombFieldStillHidden = isAnyNonBombFieldStillHidden;

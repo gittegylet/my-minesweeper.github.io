@@ -1,4 +1,4 @@
-
+﻿
 //var chai = require('chai');
 //var expect = chai.expect;
 
@@ -52,5 +52,5 @@ function exploreCellNeighbourhood(aknamezo, x, y) {
 
 
 
-exports.exploreCell = exploreCell;
-exports.exploreCellNeighbourhood = exploreCellNeighbourhood;
+//exports.exploreCell = exploreCell;
+//exports.exploreCellNeighbourhood = exploreCellNeighbourhood;

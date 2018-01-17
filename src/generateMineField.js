@@ -60,6 +60,6 @@ function  aknaSzamlalo(aknamezo, MineCount) {
 
 
 
-exports.generateMineField = generateMineField;
-exports.aknaSzamlalo = aknaSzamlalo;
+//exports.generateMineField = generateMineField;
+//exports.aknaSzamlalo = aknaSzamlalo;
 

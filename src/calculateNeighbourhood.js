@@ -58,6 +58,6 @@ function calculateNeighbourhood(aknamezo) {
 
 
 
-exports.calculateNeighbourhood = calculateNeighbourhood;
+//exports.calculateNeighbourhood = calculateNeighbourhood;
 
 

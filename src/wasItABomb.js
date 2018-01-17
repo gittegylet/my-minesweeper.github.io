@@ -8,4 +8,4 @@ function wasItABomb(aknamezo, x, y) {
 
 
 
-exports.wasItABomb = wasItABomb;
+//exports.wasItABomb = wasItABomb;
